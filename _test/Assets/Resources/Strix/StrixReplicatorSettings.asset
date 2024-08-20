@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 245893209, guid: f2c2112f638c5b8489d16403d930373b, type: 3}
+  m_Name: StrixReplicatorSettings
+  m_EditorClassIdentifier: 
+  replicators:
+  - {fileID: 4156419005910155774, guid: fbc5e1c6cea097a449fd865306f79318, type: 3}
+  - {fileID: 6704692336077916390, guid: e5b851b78a4112942ab5ab74a134efd8, type: 3}
+  - {fileID: 2383641680588422644, guid: 293f74cb5c9e48a4fbbeec2b6bbab80f, type: 3}
+  - {fileID: 3193130257085998863, guid: 82e41dda1da735a4eb04cf21dbe56612, type: 3}
+  - {fileID: 5610650167682214570, guid: 4fdc813b51e31d34eb771c731b3cfcf5, type: 3}
+  - {fileID: 5967143599269071513, guid: 9e49453d2cb5dc44e8a9ead7d4ef648b, type: 3}
+  - {fileID: 6325008931140820300, guid: 650967d67cc53dd4987d1e62015d1402, type: 3}
+  - {fileID: 6136586429969432733, guid: f216ad7235a3b6d4f994519a3f64e5e6, type: 3}
+  - {fileID: 1797120894736749387, guid: 080d05cddd04d914ba936bfbbea3fa1d, type: 3}
